@@ -1,3 +1,9 @@
+# project
+.idea
+/docs/API.md
+/test/tmp
+*.iml
+
 # Logs
 logs
 *.log
